@@ -8,4 +8,4 @@ A simple and basic tool to convert temperatures between Celsius, Fahrenheit, and
   - Kelvin (K)
 
 ## Demo
-![Temperature Calculator Screenshot](path-to-your-screenshot.png)
+![Temperature Calculator Screenshot](assets/images/Screenshot 2024-12-23 152600.png)
