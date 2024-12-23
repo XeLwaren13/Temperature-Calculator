@@ -1,8 +1,8 @@
 # Temperature Calculator 🌡️  
-A simple and basic tool to convert temperatures between Celsius, Fahrenheit, and Kelvin.
+A simple and basic tool to compute or convert temperatures between Celsius, Fahrenheit, and Kelvin.
 
 ## Features
-- Calculate & Convert temperatures between:
+- Calculate or Convert temperatures between:
   - Celsius (°C)
   - Fahrenheit (°F)
   - Kelvin (K)
