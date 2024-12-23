@@ -79,5 +79,10 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="assets\images\Screenshot 2024-12-23 152600.png" />
+    <Content Include="assets\images\Screenshot 2024-12-23 152700.png" />
+    <Content Include="assets\images\Screenshot 2024-12-23 152727.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
